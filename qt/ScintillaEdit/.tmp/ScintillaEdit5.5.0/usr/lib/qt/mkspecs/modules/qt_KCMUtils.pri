@@ -1,0 +1,12 @@
+QT.KCMUtils.VERSION = 5.115.0
+QT.KCMUtils.MAJOR_VERSION = 5
+QT.KCMUtils.MINOR_VERSION = 115
+QT.KCMUtils.PATCH_VERSION = 0
+QT.KCMUtils.name = KF5KCMUtils
+QT.KCMUtils.module = KF5KCMUtils
+QT.KCMUtils.defines = 
+QT.KCMUtils.includes =  $$PWD/../../../../include/KF5/KCMUtils
+QT.KCMUtils.private_includes =
+QT.KCMUtils.libs = $$PWD/../../../../lib
+QT.KCMUtils.depends = widgets KConfigWidgets KService
+QT.KCMUtils.module_config = 

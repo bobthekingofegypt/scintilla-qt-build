@@ -1,0 +1,12 @@
+QT.Syndication.VERSION = 5.115.0
+QT.Syndication.MAJOR_VERSION = 5
+QT.Syndication.MINOR_VERSION = 115
+QT.Syndication.PATCH_VERSION = 0
+QT.Syndication.name = KF5Syndication
+QT.Syndication.module = KF5Syndication
+QT.Syndication.defines = 
+QT.Syndication.includes =  $$PWD/../../../../include/Syndication
+QT.Syndication.private_includes =
+QT.Syndication.libs = $$PWD/../../../../lib
+QT.Syndication.depends = 
+QT.Syndication.module_config = 

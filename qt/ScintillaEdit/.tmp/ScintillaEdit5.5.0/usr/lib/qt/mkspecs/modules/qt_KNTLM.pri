@@ -1,0 +1,12 @@
+QT.KNTLM.VERSION = 5.115.0
+QT.KNTLM.MAJOR_VERSION = 5
+QT.KNTLM.MINOR_VERSION = 115
+QT.KNTLM.PATCH_VERSION = 0
+QT.KNTLM.name = KF5KIONTLM
+QT.KNTLM.module = KF5KIONTLM
+QT.KNTLM.defines = 
+QT.KNTLM.includes =  $$PWD/../../../../include/KF5/KNTLM
+QT.KNTLM.private_includes =
+QT.KNTLM.libs = $$PWD/../../../../lib
+QT.KNTLM.depends = KCoreAddons
+QT.KNTLM.module_config = 

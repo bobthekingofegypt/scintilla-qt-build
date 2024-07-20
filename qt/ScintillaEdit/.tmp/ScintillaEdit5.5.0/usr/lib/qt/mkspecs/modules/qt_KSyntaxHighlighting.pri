@@ -1,0 +1,12 @@
+QT.KSyntaxHighlighting.VERSION = 5.115.0
+QT.KSyntaxHighlighting.MAJOR_VERSION = 5
+QT.KSyntaxHighlighting.MINOR_VERSION = 115
+QT.KSyntaxHighlighting.PATCH_VERSION = 0
+QT.KSyntaxHighlighting.name = KF5SyntaxHighlighting
+QT.KSyntaxHighlighting.module = KF5SyntaxHighlighting
+QT.KSyntaxHighlighting.defines = 
+QT.KSyntaxHighlighting.includes =  $$PWD/../../../../include/KF5/KSyntaxHighlighting
+QT.KSyntaxHighlighting.private_includes =
+QT.KSyntaxHighlighting.libs = $$PWD/../../../../lib
+QT.KSyntaxHighlighting.depends = gui
+QT.KSyntaxHighlighting.module_config = 

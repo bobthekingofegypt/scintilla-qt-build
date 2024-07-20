@@ -1,0 +1,12 @@
+QT.KParts.VERSION = 5.115.0
+QT.KParts.MAJOR_VERSION = 5
+QT.KParts.MINOR_VERSION = 115
+QT.KParts.PATCH_VERSION = 0
+QT.KParts.name = KF5Parts
+QT.KParts.module = KF5Parts
+QT.KParts.defines = 
+QT.KParts.includes =  $$PWD/../../../../include/KF5/KParts
+QT.KParts.private_includes =
+QT.KParts.libs = $$PWD/../../../../lib
+QT.KParts.depends = KIOWidgets KXmlGui KTextWidgets
+QT.KParts.module_config = 

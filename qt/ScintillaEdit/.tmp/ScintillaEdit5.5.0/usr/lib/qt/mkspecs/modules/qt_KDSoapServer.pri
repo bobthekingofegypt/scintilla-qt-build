@@ -1,0 +1,12 @@
+QT.KDSoapServer.VERSION = 2.2.0
+QT.KDSoapServer.MAJOR_VERSION = 2
+QT.KDSoapServer.MINOR_VERSION = 2
+QT.KDSoapServer.PATCH_VERSION = 0
+QT.KDSoapServer.name = kdsoap-server
+QT.KDSoapServer.module = kdsoap-server
+QT.KDSoapServer.defines = 
+QT.KDSoapServer.includes =  /usr/include/KDSoap-qt5
+QT.KDSoapServer.private_includes =
+QT.KDSoapServer.libs = $$PWD/../../../../lib
+QT.KDSoapServer.depends = 
+QT.KDSoapServer.module_config = 

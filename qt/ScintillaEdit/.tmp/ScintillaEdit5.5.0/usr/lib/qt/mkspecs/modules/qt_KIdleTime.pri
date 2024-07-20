@@ -1,0 +1,12 @@
+QT.KIdleTime.VERSION = 5.115.0
+QT.KIdleTime.MAJOR_VERSION = 5
+QT.KIdleTime.MINOR_VERSION = 115
+QT.KIdleTime.PATCH_VERSION = 0
+QT.KIdleTime.name = KF5IdleTime
+QT.KIdleTime.module = KF5IdleTime
+QT.KIdleTime.defines = 
+QT.KIdleTime.includes =  $$PWD/../../../../include/KF5/KIdleTime
+QT.KIdleTime.private_includes =
+QT.KIdleTime.libs = $$PWD/../../../../lib
+QT.KIdleTime.depends = core
+QT.KIdleTime.module_config = 

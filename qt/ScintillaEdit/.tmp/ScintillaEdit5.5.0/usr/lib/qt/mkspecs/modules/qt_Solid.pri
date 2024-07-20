@@ -1,0 +1,12 @@
+QT.Solid.VERSION = 5.115.0
+QT.Solid.MAJOR_VERSION = 5
+QT.Solid.MINOR_VERSION = 115
+QT.Solid.PATCH_VERSION = 0
+QT.Solid.name = KF5Solid
+QT.Solid.module = KF5Solid
+QT.Solid.defines = 
+QT.Solid.includes =  $$PWD/../../../../include/KF5/Solid
+QT.Solid.private_includes =
+QT.Solid.libs = $$PWD/../../../../lib
+QT.Solid.depends = core
+QT.Solid.module_config = 

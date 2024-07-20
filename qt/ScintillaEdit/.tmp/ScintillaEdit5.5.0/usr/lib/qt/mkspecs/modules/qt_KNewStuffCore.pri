@@ -1,0 +1,12 @@
+QT.KNewStuffCore.VERSION = 5.115.0
+QT.KNewStuffCore.MAJOR_VERSION = 5
+QT.KNewStuffCore.MINOR_VERSION = 115
+QT.KNewStuffCore.PATCH_VERSION = 0
+QT.KNewStuffCore.name = KF5NewStuffCore
+QT.KNewStuffCore.module = KF5NewStuffCore
+QT.KNewStuffCore.defines = 
+QT.KNewStuffCore.includes =  $$PWD/../../../../include/KF5/KNewStuff3
+QT.KNewStuffCore.private_includes =
+QT.KNewStuffCore.libs = $$PWD/../../../../lib
+QT.KNewStuffCore.depends = Attica
+QT.KNewStuffCore.module_config = 

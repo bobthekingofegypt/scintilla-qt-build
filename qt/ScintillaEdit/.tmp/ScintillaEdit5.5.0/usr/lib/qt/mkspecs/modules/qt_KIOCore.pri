@@ -1,0 +1,12 @@
+QT.KIOCore.VERSION = 5.115.0
+QT.KIOCore.MAJOR_VERSION = 5
+QT.KIOCore.MINOR_VERSION = 115
+QT.KIOCore.PATCH_VERSION = 0
+QT.KIOCore.name = KF5KIOCore
+QT.KIOCore.module = KF5KIOCore
+QT.KIOCore.defines = 
+QT.KIOCore.includes =  $$PWD/../../../../include/KF5/KIO $$PWD/../../../../include/KF5/KIOCore
+QT.KIOCore.private_includes =
+QT.KIOCore.libs = $$PWD/../../../../lib
+QT.KIOCore.depends = KCoreAddons KService
+QT.KIOCore.module_config = 

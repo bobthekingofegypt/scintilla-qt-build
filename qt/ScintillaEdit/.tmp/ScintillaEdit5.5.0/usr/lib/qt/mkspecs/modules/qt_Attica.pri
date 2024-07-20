@@ -1,0 +1,12 @@
+QT.Attica.VERSION = 5.115.0
+QT.Attica.MAJOR_VERSION = 5
+QT.Attica.MINOR_VERSION = 115
+QT.Attica.PATCH_VERSION = 0
+QT.Attica.name = KF5Attica
+QT.Attica.module = KF5Attica
+QT.Attica.defines = 
+QT.Attica.includes =  $$PWD/../../../../include/KF5/Attica
+QT.Attica.private_includes =
+QT.Attica.libs = $$PWD/../../../../lib
+QT.Attica.depends = core
+QT.Attica.module_config = 

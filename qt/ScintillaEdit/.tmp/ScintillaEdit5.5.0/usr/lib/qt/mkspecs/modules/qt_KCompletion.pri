@@ -1,0 +1,12 @@
+QT.KCompletion.VERSION = 5.115.0
+QT.KCompletion.MAJOR_VERSION = 5
+QT.KCompletion.MINOR_VERSION = 115
+QT.KCompletion.PATCH_VERSION = 0
+QT.KCompletion.name = KF5Completion
+QT.KCompletion.module = KF5Completion
+QT.KCompletion.defines = 
+QT.KCompletion.includes =  $$PWD/../../../../include/KF5/KCompletion
+QT.KCompletion.private_includes =
+QT.KCompletion.libs = $$PWD/../../../../lib
+QT.KCompletion.depends = widgets
+QT.KCompletion.module_config = 

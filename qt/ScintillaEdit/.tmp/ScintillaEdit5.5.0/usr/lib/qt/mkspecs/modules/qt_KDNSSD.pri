@@ -1,0 +1,12 @@
+QT.KDNSSD.VERSION = 5.115.0
+QT.KDNSSD.MAJOR_VERSION = 5
+QT.KDNSSD.MINOR_VERSION = 115
+QT.KDNSSD.PATCH_VERSION = 0
+QT.KDNSSD.name = KF5DNSSD
+QT.KDNSSD.module = KF5DNSSD
+QT.KDNSSD.defines = 
+QT.KDNSSD.includes =  $$PWD/../../../../include/KF5/KDNSSD
+QT.KDNSSD.private_includes =
+QT.KDNSSD.libs = $$PWD/../../../../lib
+QT.KDNSSD.depends = network
+QT.KDNSSD.module_config = 

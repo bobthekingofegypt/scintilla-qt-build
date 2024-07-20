@@ -1,0 +1,12 @@
+QT.KJobWidgets.VERSION = 5.115.0
+QT.KJobWidgets.MAJOR_VERSION = 5
+QT.KJobWidgets.MINOR_VERSION = 115
+QT.KJobWidgets.PATCH_VERSION = 0
+QT.KJobWidgets.name = KF5JobWidgets
+QT.KJobWidgets.module = KF5JobWidgets
+QT.KJobWidgets.defines = 
+QT.KJobWidgets.includes =  $$PWD/../../../../include/KF5/KJobWidgets
+QT.KJobWidgets.private_includes =
+QT.KJobWidgets.libs = $$PWD/../../../../lib
+QT.KJobWidgets.depends = widgets KCoreAddons
+QT.KJobWidgets.module_config = 

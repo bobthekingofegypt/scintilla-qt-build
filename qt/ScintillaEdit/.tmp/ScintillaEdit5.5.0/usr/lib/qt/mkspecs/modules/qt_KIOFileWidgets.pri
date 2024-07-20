@@ -1,0 +1,12 @@
+QT.KIOFileWidgets.VERSION = 5.115.0
+QT.KIOFileWidgets.MAJOR_VERSION = 5
+QT.KIOFileWidgets.MINOR_VERSION = 115
+QT.KIOFileWidgets.PATCH_VERSION = 0
+QT.KIOFileWidgets.name = KF5KIOFileWidgets
+QT.KIOFileWidgets.module = KF5KIOFileWidgets
+QT.KIOFileWidgets.defines = 
+QT.KIOFileWidgets.includes =  $$PWD/../../../../include/KF5/KIOFileWidgets
+QT.KIOFileWidgets.private_includes =
+QT.KIOFileWidgets.libs = $$PWD/../../../../lib
+QT.KIOFileWidgets.depends = KIOWidgets KBookmarks KXmlGui Solid
+QT.KIOFileWidgets.module_config = 

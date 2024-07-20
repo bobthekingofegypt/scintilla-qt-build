@@ -1,0 +1,12 @@
+QT.KDBusAddons.VERSION = 5.115.0
+QT.KDBusAddons.MAJOR_VERSION = 5
+QT.KDBusAddons.MINOR_VERSION = 115
+QT.KDBusAddons.PATCH_VERSION = 0
+QT.KDBusAddons.name = KF5DBusAddons
+QT.KDBusAddons.module = KF5DBusAddons
+QT.KDBusAddons.defines = 
+QT.KDBusAddons.includes =  $$PWD/../../../../include/KF5/KDBusAddons
+QT.KDBusAddons.private_includes =
+QT.KDBusAddons.libs = $$PWD/../../../../lib
+QT.KDBusAddons.depends = dbus
+QT.KDBusAddons.module_config = 

@@ -1,0 +1,12 @@
+QT.KNewStuff.VERSION = 5.115.0
+QT.KNewStuff.MAJOR_VERSION = 5
+QT.KNewStuff.MINOR_VERSION = 115
+QT.KNewStuff.PATCH_VERSION = 0
+QT.KNewStuff.name = KF5NewStuff
+QT.KNewStuff.module = KF5NewStuff
+QT.KNewStuff.defines = 
+QT.KNewStuff.includes =  $$PWD/../../../../include/KF5/KNewStuff
+QT.KNewStuff.private_includes =
+QT.KNewStuff.libs = $$PWD/../../../../lib
+QT.KNewStuff.depends = widgets KXmlGui KNewStuffCore
+QT.KNewStuff.module_config = 

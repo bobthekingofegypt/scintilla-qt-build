@@ -1,0 +1,12 @@
+QT.KNotifyConfig.VERSION = 5.115.0
+QT.KNotifyConfig.MAJOR_VERSION = 5
+QT.KNotifyConfig.MINOR_VERSION = 115
+QT.KNotifyConfig.PATCH_VERSION = 0
+QT.KNotifyConfig.name = KF5NotifyConfig
+QT.KNotifyConfig.module = KF5NotifyConfig
+QT.KNotifyConfig.defines = 
+QT.KNotifyConfig.includes =  $$PWD/../../../../include/KF5/KNotifyConfig
+QT.KNotifyConfig.private_includes =
+QT.KNotifyConfig.libs = $$PWD/../../../../lib
+QT.KNotifyConfig.depends = widgets
+QT.KNotifyConfig.module_config = 

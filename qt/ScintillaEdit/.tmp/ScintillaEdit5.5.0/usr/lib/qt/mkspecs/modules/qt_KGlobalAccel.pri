@@ -1,0 +1,12 @@
+QT.KGlobalAccel.VERSION = 5.115.0
+QT.KGlobalAccel.MAJOR_VERSION = 5
+QT.KGlobalAccel.MINOR_VERSION = 115
+QT.KGlobalAccel.PATCH_VERSION = 0
+QT.KGlobalAccel.name = KF5GlobalAccel
+QT.KGlobalAccel.module = KF5GlobalAccel
+QT.KGlobalAccel.defines = 
+QT.KGlobalAccel.includes =  $$PWD/../../../../include/KF5/KGlobalAccel
+QT.KGlobalAccel.private_includes =
+QT.KGlobalAccel.libs = $$PWD/../../../../lib
+QT.KGlobalAccel.depends = dbus widgets
+QT.KGlobalAccel.module_config = 

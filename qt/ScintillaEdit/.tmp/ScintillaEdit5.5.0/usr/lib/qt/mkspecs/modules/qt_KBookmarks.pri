@@ -1,0 +1,12 @@
+QT.KBookmarks.VERSION = 5.115.0
+QT.KBookmarks.MAJOR_VERSION = 5
+QT.KBookmarks.MINOR_VERSION = 115
+QT.KBookmarks.PATCH_VERSION = 0
+QT.KBookmarks.name = KF5Bookmarks
+QT.KBookmarks.module = KF5Bookmarks
+QT.KBookmarks.defines = 
+QT.KBookmarks.includes =  $$PWD/../../../../include/KF5/KBookmarks
+QT.KBookmarks.private_includes =
+QT.KBookmarks.libs = $$PWD/../../../../lib
+QT.KBookmarks.depends = widgets xml
+QT.KBookmarks.module_config = 

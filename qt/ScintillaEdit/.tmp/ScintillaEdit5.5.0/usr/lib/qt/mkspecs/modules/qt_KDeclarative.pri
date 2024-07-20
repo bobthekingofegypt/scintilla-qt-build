@@ -1,0 +1,12 @@
+QT.KDeclarative.VERSION = 5.115.0
+QT.KDeclarative.MAJOR_VERSION = 5
+QT.KDeclarative.MINOR_VERSION = 115
+QT.KDeclarative.PATCH_VERSION = 0
+QT.KDeclarative.name = KF5Declarative
+QT.KDeclarative.module = KF5Declarative
+QT.KDeclarative.defines = 
+QT.KDeclarative.includes =  $$PWD/../../../../include/KF5/KDeclarative
+QT.KDeclarative.private_includes =
+QT.KDeclarative.libs = $$PWD/../../../../lib
+QT.KDeclarative.depends = qml
+QT.KDeclarative.module_config = 

@@ -1,0 +1,12 @@
+QT.OktetaCore.VERSION = 0.10.0
+QT.OktetaCore.MAJOR_VERSION = 0
+QT.OktetaCore.MINOR_VERSION = 10
+QT.OktetaCore.PATCH_VERSION = 0
+QT.OktetaCore.name = Okteta3Core
+QT.OktetaCore.module = Okteta3Core
+QT.OktetaCore.defines = 
+QT.OktetaCore.includes =  $$PWD/../../../../include/OktetaCore
+QT.OktetaCore.private_includes =
+QT.OktetaCore.libs = $$PWD/../../../../lib
+QT.OktetaCore.depends = core
+QT.OktetaCore.module_config = 

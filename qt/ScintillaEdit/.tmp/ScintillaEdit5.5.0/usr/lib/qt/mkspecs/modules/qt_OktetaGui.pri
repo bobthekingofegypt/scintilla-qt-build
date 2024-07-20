@@ -1,0 +1,12 @@
+QT.OktetaGui.VERSION = 0.10.0
+QT.OktetaGui.MAJOR_VERSION = 0
+QT.OktetaGui.MINOR_VERSION = 10
+QT.OktetaGui.PATCH_VERSION = 0
+QT.OktetaGui.name = Okteta3Gui
+QT.OktetaGui.module = Okteta3Gui
+QT.OktetaGui.defines = 
+QT.OktetaGui.includes =  $$PWD/../../../../include/OktetaGui
+QT.OktetaGui.private_includes =
+QT.OktetaGui.libs = $$PWD/../../../../lib
+QT.OktetaGui.depends = OktetaCore widgets
+QT.OktetaGui.module_config = 

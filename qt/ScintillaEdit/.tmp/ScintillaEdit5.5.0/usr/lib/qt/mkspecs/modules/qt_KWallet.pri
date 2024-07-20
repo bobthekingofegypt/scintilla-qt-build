@@ -1,0 +1,12 @@
+QT.KWallet.VERSION = 5.115.0
+QT.KWallet.MAJOR_VERSION = 5
+QT.KWallet.MINOR_VERSION = 115
+QT.KWallet.PATCH_VERSION = 0
+QT.KWallet.name = KF5Wallet
+QT.KWallet.module = KF5Wallet
+QT.KWallet.defines = 
+QT.KWallet.includes =  $$PWD/../../../../include/KF5/KWallet
+QT.KWallet.private_includes =
+QT.KWallet.libs = $$PWD/../../../../lib
+QT.KWallet.depends = widgets
+QT.KWallet.module_config = 

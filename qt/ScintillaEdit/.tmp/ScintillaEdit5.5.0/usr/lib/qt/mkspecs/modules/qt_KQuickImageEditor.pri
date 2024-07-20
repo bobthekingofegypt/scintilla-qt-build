@@ -1,0 +1,12 @@
+QT.KQuickImageEditor.VERSION = 0.3.0
+QT.KQuickImageEditor.MAJOR_VERSION = 0
+QT.KQuickImageEditor.MINOR_VERSION = 3
+QT.KQuickImageEditor.PATCH_VERSION = 0
+QT.KQuickImageEditor.name = KQuickImageEditor
+QT.KQuickImageEditor.module = KQuickImageEditor
+QT.KQuickImageEditor.defines = 
+QT.KQuickImageEditor.includes =  $$PWD/../../../../include/KQuickImageEditor
+QT.KQuickImageEditor.private_includes =
+QT.KQuickImageEditor.libs = $$PWD/../../../../lib
+QT.KQuickImageEditor.depends = core qml quick svg
+QT.KQuickImageEditor.module_config = 
