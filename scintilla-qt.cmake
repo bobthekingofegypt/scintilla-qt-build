@@ -52,6 +52,10 @@ set(SCINTILLA_QT_EDIT_SOURCES
 
 add_library(scintilla-qt-edit STATIC)
 
+if (MSVC)
+    target_compile_options(scintilla-qt-edit PRIVATE /FIstring /FIvector)
+endif()
+
 target_sources(scintilla-qt-edit
     PRIVATE ${SCINTILLA_QT_EDIT_SOURCES}
     PUBLIC FILE_SET HEADERS
