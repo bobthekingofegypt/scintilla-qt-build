@@ -275,3 +275,13 @@ int ScintillaDocument::move_position_outside_char(int pos, int move_dir, bool ch
 int ScintillaDocument::get_character(int pos) {
     return (static_cast<Document *>(pdoc))->GetCharacterAndWidth(pos, nullptr);
 }
+
+void ScintillaDocument::get_char_range_into(int position, int length, QByteArray &out) {
+    const Document *doc = static_cast<Document *>(pdoc);
+    if (position < 0 || length <= 0 || position + length > doc->Length()) {
+        out.clear();
+        return;
+    }
+    out.resize(length);
+    doc->GetCharRange(out.data(), position, length);
+}

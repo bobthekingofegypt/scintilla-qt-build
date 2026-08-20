@@ -80,6 +80,7 @@ public:
     int move_position_outside_char(int pos, int move_dir, bool check_line_end);
 
     int get_character(int pos); // Calls GetCharacterAndWidth(pos, NULL)
+    void get_char_range_into(int position, int length, QByteArray &out);
 
 signals:
     void modify_attempt();
