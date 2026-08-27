@@ -66,6 +66,7 @@ public:
     int lines_total();
     void start_styling(int position);
     bool set_style_for(int length, char style);
+    bool set_styles(int length, const char* styles);
     int get_end_styled();
     void ensure_styled_to(int position);
     void set_current_indicator(int indic);
