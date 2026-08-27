@@ -225,7 +225,7 @@ bool ScintillaDocument::set_style_for(int length, char style) {
 }
 
 bool ScintillaDocument::set_styles(int length, const char *styles) {
-    return (static_cast<Document *>(pdoc))->SetStyles(length, styles);                                                             }
+    return (static_cast<Document *>(pdoc))->SetStyles(length, styles);
 }
 
 int ScintillaDocument::get_end_styled() {
