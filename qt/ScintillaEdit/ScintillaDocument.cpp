@@ -71,10 +71,10 @@ void WatcherHelper::NotifySavePoint(Document *, void *, bool atSavePoint) {
 void WatcherHelper::NotifyModified(Document *, DocModification mh, void *) {
     // BeforeDelete is zero'ing out the length contained in the raw notification
     // so we need to check for that case and use the length from the modification
-    const int length = mh.text ? mh.length : 0;
-    QByteArray ba = QByteArray::fromRawData(mh.text, length);
-    emit owner->modified(mh.position, static_cast<int>(mh.modificationType), ba, length,
-			 mh.linesAdded, mh.line, static_cast<int>(mh.foldLevelNow), static_cast<int>(mh.foldLevelPrev));
+    const int textLength = mh.text ? mh.length : 0;
+    QByteArray ba = QByteArray::fromRawData(mh.text, textLength);
+    emit owner->modified(mh.position, static_cast<int>(mh.modificationType), ba, mh.length,
+                         mh.linesAdded, mh.line, static_cast<int>(mh.foldLevelNow), static_cast<int>(mh.foldLevelPrev));
 }
 
 void WatcherHelper::NotifyDeleted(Document *, void *) noexcept {
